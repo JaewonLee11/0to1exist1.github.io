@@ -11,27 +11,26 @@ author:
   name: Jaewon Lee [j]
   image: 01.jpg
   say-hello: Hello, I’m <strong>Jaewon Lee</strong>
-  bio: <strong>Data science</strong>, <strong>life science</strong>, <strong>Dev</strong>, talks, and writes. I share Data science tutorials, AI tutorials, Dev tutorials. love music and outdoor activities.
+  bio: <strong>Data science</strong>, <strong>life science</strong>, <strong>Dev</strong>, talks, and writes.<ㅠㄱ> I share Data science tutorials, AI tutorials, Dev tutorials.<br> love music and outdoor activities.
 
 
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
+instagram: https://instagram/exist1__1/ # Add your Instagram handle
 pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: JDev # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: exist1__1 # Add instagram username
 
 
 #-------------------------------
