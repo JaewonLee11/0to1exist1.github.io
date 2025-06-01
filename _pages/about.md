@@ -5,22 +5,67 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+## 이재원 (Jaewon Lee)
 
-***
+---
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+## Personal Information
+- **Tel**: +82-10-4129-9748
+- **E-mail**: ddugi1102@naver.com
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+---
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+## Education Qualifications
+- **Mar. 2020 ~ Aug. 2024**  
+  Catholic University, Republic of Korea  
+  Bachelor of Engineering, Dept. of Biomedical-Chemical Engineering
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+---
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+## Experiences
+- **Jan. 2024 ~ Feb. 2024**  
+  Undergraduate Internship, Dept. of Medicine, Yonsei University, Seoul, Republic of Korea  
+  *(Adviser: Prof. Yon-Hi Jin)*
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+- **Jul. 2023 ~ Nov. 2023**  
+  Undergraduate Internship, Dept. of Biomedical Chemical Engineering, Catholic University, Seoul, Republic of Korea  
+  *(Adviser: Prof. Min-Ho Kang)*
+
+- **Jan. 2023 ~ Feb. 2023**  
+  Undergraduate Internship, Dept. of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea  
+  *(Adviser: Prof. Sung-Min Son)*
+
+- **Jul. 2022 ~ Dec. 2022**  
+  Undergraduate Internship, Dept. of Biomedical Chemical Engineering, Catholic University, Seoul, Republic of Korea  
+  *(Adviser: Prof. Han-Young Kim)*
+
+---
+
+## Conference and Symposium
+1. **The use of metabolites and inflammatory signals as the markers for Inflammatory Bowel Disease**
+  Jae Won Lee, Dong Hyun Kim, Eu Gene Choi, Hyun Sik Lee, Kye Hun Hong, Yoon Jae Park
+  *Korean Society for Molecular and Cellular Biology International Conference*, International Convention Center Jeju, 2023.11.06–08.
+
+2. **1st Organoid Workshop**, Korean Cell Line Bank, Seoul National University, College of Medicine Cancer Research Institute, 2022.08.25.
+
+3. **Division of Immunometabolism and Cellular Senescence**, *62nd National Undergraduate Symposium on Biology*, Seoul National University, 2023.07.01–2023.09.23.
+
+---
+
+## Awards and Honors
+1. Jae Won Lee, Hyo Jin Joo, Yea Ram Oh, **Crude Qniumucin (Qmucin) skin regeneration effect extracted from Lopylem Sclentum**, *Encouragement Prize award*, Department of Biomedical-Chemical Engineering, Catholic University, 2022.11.11.
+
+2. Hak Rae Hong, Jong Min Oh, Ji Won Park, Jae Won Lee, **WS2 Nanoparticles Grown on Graphene**, *Top Prize award* with ER (Education & Research) Project (2023), Department of Biomedical-Chemical Engineering, Catholic University, 2023.11.
+
+---
+
+## Professional Certificates of Qualification
+1. **Craftsman Chemical Analysis** (화학분석기능사, 20403022303M, 2020.10.08)
+2. **Certification for RA (Regulatory Affairs) Specialist Training Program**, National Institute of Medical Device Safety (NIDS), 2023.07.31–09.01
+
+---
+
+## Technical and Language Skills
+- **Laboratory Skills**: NTA assay (Zeta view), RT-qPCR assay, MTT-assay, basic cell culture skills, CV, LSV measurement
+- **Language Skills**: TOEIC 915 (23.06.25)
+

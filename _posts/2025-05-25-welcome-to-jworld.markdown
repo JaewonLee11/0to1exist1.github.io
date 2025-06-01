@@ -6,6 +6,6 @@ image:  10.jpg
 tags:   Jekyll
 ---
 
-Data science, life science, Dev, talks, and writes.  
-I share Data science tutorials, AI tutorials, Dev tutorials.  
+Data science, life science, Dev, talks, and writes. <br>
+I share Data science tutorials, AI tutorials, Dev tutorials.  <br>
 love music and outdoor activities.
