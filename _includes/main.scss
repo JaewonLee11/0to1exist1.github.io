@@ -114,3 +114,61 @@
 
 // 4.5 Tag Page
 @import '4-layouts/tag-page';
+
+/* 상위 메뉴가 드롭다운을 가지는 경우 */
+.nav__item--has-dropdown {
+    position: relative;
+  }
+  
+  /* 드롭다운 화살표 추가 */
+  .nav__link--has-dropdown::after {
+    
+    font-size: 0.6em;
+    margin-left: 5px;
+  }
+  
+  /* 드롭다운 하위 메뉴 */
+  .nav__sublist {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #ffffff;
+    border: 1px solid #eee;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    min-width: 200px;
+    z-index: 1000;
+  
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+  
+  /* 하위 메뉴 항목 */
+  .nav__subitem {
+    padding: 0;
+  }
+  
+  /* 하위 메뉴 링크 스타일 */
+  .nav__sublink {
+    display: block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #333;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  
+  /* 하위 메뉴 hover 스타일 */
+  .nav__sublink:hover {
+    background-color: #f6f6f6;
+    color: #007acc;
+  }
+  
+  /* 마우스 올렸을 때 드롭다운 메뉴 부드럽게 보이기 */
+  .nav__item--has-dropdown:hover .nav__sublist {
+    opacity: 1;
+    visibility: visible;
+  }
+  

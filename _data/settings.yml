@@ -41,3 +41,25 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#--------------------------
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Posts"
+    sublinks:
+      - title: "Python"
+        url: "/categories/python"
+      - title: "Data Analysis"
+        url: "/categories/data-analysis"
+      - title: "Machine Learning"
+        url: "/categories/machine-learning"
+      - title: "Deep Learning"
+        url: "/categories/deep-learning"
+      - title: "Bioinformatics"
+        url: "/categories/bioinformatics"
+      - title: "Drug Development"
+        url: "/categories/drug-development"
+  - title: "About"
+    url: "/about"
