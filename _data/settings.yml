@@ -47,7 +47,7 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "Posts"
-    Url: "/posts"
+    url: "/posts"
     sublinks:
       - title: "Python"
         url: "/posts/python"

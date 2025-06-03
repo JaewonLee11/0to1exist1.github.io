@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="archive-head">
+  <div class="container">
+    <h1 class="archive-title">{% if page.category %}: <span>{{ page.category | capitalize }}</span>{% endif %}</h1>
+  </div>
+</div>
+
+<div class="container">
+  <!-- Category Filter Navigation -->
+  <nav class="category-nav">
+    <ul class="category-list">
+      <li>
+        <a href="{{ site.baseurl }}/posts" class="{% if page.url == '/posts/' %}active{% endif %}">All</a>
+      </li>
+      {% assign all_categories = site.categories %}
+      {% for category in all_categories %}
+        {% assign category_name = category[0] %}
+        <li>
+          <a href="{{ site.baseurl }}/categories/{{ category_name | slugify }}" class="{% if page.category == category_name %}active{% endif %}">
+            {{ category_name | capitalize }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
+
+  <!-- Post List -->
+  <div class="post-list">
+    {% assign posts_in_category = site.posts %}
+    {% if page.category %}
+      {% assign posts_in_category = site.posts | where: "categories", page.category %}
+    {% endif %}
+
+    {% for post in posts_in_category %}
+      {% include article-content.html %}
+    {% endfor %}
+  </div>
+</div>
