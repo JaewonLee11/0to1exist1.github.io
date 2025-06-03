@@ -8,7 +8,7 @@ description: Develope the world!
 #-------------------------------
 # Author Settings
 author:
-  name: Jaewon Lee [j]
+  name: Jaewon Lee
   image: 01.jpg
   say-hello: Hello, I’m <strong>Jaewon Lee</strong>
   bio: <strong>Data science</strong>, <strong>life science</strong>, <strong>Dev</strong>, talks, and writes.<br> I share Data science tutorials, AI tutorials, Dev tutorials.<br> love music and outdoor activities.
@@ -61,6 +61,8 @@ navigation:
         url: "/posts/bioinformatics"
       - title: "Drug Development"
         url: "/posts/drug-development"
+      - title: "Etc"
+        url: "/posts/etc"
   - title: "Portfolios"
     url: "/portfolios"
   - title: "About"

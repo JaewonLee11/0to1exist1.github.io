@@ -2,30 +2,27 @@
 layout: default
 ---
 
-<div class="archive-head">
-  <div class="container">
-    <h1 class="archive-title">{% if page.category %}: <span>{{ page.category | capitalize }}</span>{% endif %}</h1>
-  </div>
-</div>
-
 <div class="container">
   <!-- Category Filter Navigation -->
   <nav class="category-nav">
     <ul class="category-list">
       <li>
-        <a href="{{ site.baseurl }}/posts" class="{% if page.url == '/posts/' %}active{% endif %}">All</a>
+        <a href="{{ site.baseurl }}/posts" class="nav__sublink {% if page.url == '/posts/' %}active{% endif %}">
+          All
+        </a>
       </li>
-      {% assign all_categories = site.categories %}
-      {% for category in all_categories %}
-        {% assign category_name = category[0] %}
+      {% assign posts_nav = site.data.settings.navigation | where: "title", "Posts" | first %}
+      {% for sublink in posts_nav.sublinks %}
         <li>
-          <a href="{{ site.baseurl }}/categories/{{ category_name | slugify }}" class="{% if page.category == category_name %}active{% endif %}">
-            {{ category_name | capitalize }}
+          <a href="{{ sublink.url | prepend: site.baseurl }}" class="nav__sublink {% if sublink.title == page.title %}active{% endif %}">
+            {{ sublink.title }}
           </a>
         </li>
       {% endfor %}
     </ul>
   </nav>
+  
+  
   
 
   <!-- Post List -->

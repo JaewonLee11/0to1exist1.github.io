@@ -232,3 +232,47 @@
     margin-bottom: 40px;
   }
 }
+
+
+.category-nav {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem; /* 가로 간격 */
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.2), 0 0 6px 0 rgba(0,0,0,0.19);
+}
+
+.category-list li {
+  margin: 0;
+}
+
+.category-list a {
+  padding: 0.5rem 0.5rem;
+  background-color: transparent;
+  border-radius: 15px;
+  text-decoration: none;
+  color: #f4a300; /* 오렌지색 */
+  font-weight: 600;
+  font-size: 1rem;
+  display: inline-block;
+  transition: color 0.5s ease; /* ✅ hover 부드럽게 */
+}
+
+.category-list a:hover {
+  color: #cc8400;
+  border: 2px solid #cc8400;
+}
+
+.category-list a.active {
+  background-color: #f4a300; /* 버튼 배경색 */
+  color: white; /* 버튼 글씨색 */
+  border: 2px solid #f4a300; /* border 색 */
+}
