@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+
+
+  <!-- Portfolio List -->
+  <div class="portfolio-list">
+    {% assign portfolios_in_category = site.portfolios %}
+    {% if page.category %}
+      {% assign portfolios_in_category = site.portfolios | where: "category", page.category %}
+    {% endif %}
+
+    {% for portfolio in portfolios_in_category %}
+      {% include portfolio-content.html %}
+    {% endfor %}
+  </div>
+</div>
