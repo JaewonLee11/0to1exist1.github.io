@@ -16,15 +16,14 @@ author:
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-instagram: https://instagram/exist1__1/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+instagram: https://instagram.com/exist1__1/
+linkedin: https://www.linkedin.com/in/%EC%9E%AC%EC%9B%90-%EC%9D%B4-87375535a/
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: JDev # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: JWDev # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -48,18 +47,22 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "Posts"
+    Url: "/posts"
     sublinks:
       - title: "Python"
-        url: "/categories/python"
+        url: "/posts/python"
       - title: "Data Analysis"
-        url: "/categories/data-analysis"
+        url: "/posts/data-analysis"
       - title: "Machine Learning"
-        url: "/categories/machine-learning"
+        url: "/posts/machine-learning"
       - title: "Deep Learning"
-        url: "/categories/deep-learning"
+        url: "/posts/deep-learning"
       - title: "Bioinformatics"
-        url: "/categories/bioinformatics"
+        url: "/posts/bioinformatics"
       - title: "Drug Development"
-        url: "/categories/drug-development"
+        url: "/posts/drug-development"
+  - title: "Portfolios"
+    url: "/portfolios"
   - title: "About"
     url: "/about"
+  
